@@ -8,7 +8,7 @@ folder:
 
 **7/15/24 #314Universal**
 
-[[Journal314 Best Prompt]]
+[[Journal314/314Prompts/Journal314 Best Prompt]]
 
 * * *
 
@@ -764,15 +764,11 @@ I will now proceed with the searches to gather the necessary information. This m
 
 By following these steps, we can ensure a thorough and well-rounded exploration of Nihiltheism, grounded in both the foundational text and additional scholarly resources. This will enable us to present a comprehensive and insightful analysis to our audience of eminent scholars and professors.
 
-![](https://imagedelivery.net/ywtNy772PWwXecPtq2-tAQ/614b7426-722f-4ad6-51a7-1c86a656e200/default)
-
+![](https://imagedelivery.net/ywtNy772PWwXecPtq2-tAQ/614b7426-722f-4ad6-51a7-1c86a656e200/default
 You
 
 Follow up on searches of uploading document and continue extracting key entites.
 
-![](https://apps.abacus.ai/chatllm/staticllm/gpt.webp)
-
-GPT-4o
 
 To continue our exploration and ensure a comprehensive analysis of Nihiltheism, I will follow up on the searches by uploading the document "Journal314\_1-6.pdf" and extracting key entities and quotes relevant to the themes and questions outlined earlier.
 
@@ -816,38 +812,6 @@ Once the document is uploaded, I will proceed with the following steps:
 
 By following these steps, we can ensure a thorough and well-rounded exploration of Nihiltheism, grounded in both the foundational text and additional scholarly resources. This will enable us to present a comprehensive and insightful analysis to our audience of eminent scholars and professors.
 
-![](https://imagedelivery.net/ywtNy772PWwXecPtq2-tAQ/614b7426-722f-4ad6-51a7-1c86a656e200/default)
-
-You
-
 Please follow up with searching the uploaded document and extracting all key entities as planned.
-
-![](https://imagedelivery.net/ywtNy772PWwXecPtq2-tAQ/614b7426-722f-4ad6-51a7-1c86a656e200/default)
-
-You
-
-Please follow up with searching the uploaded document and extracting all key entities as planned.
-
-![](https://imagedelivery.net/ywtNy772PWwXecPtq2-tAQ/614b7426-722f-4ad6-51a7-1c86a656e200/default)
-
-You
-
-Please continue to follow-up with searching uploaded document Journal314\_1-6
-
-![](https://imagedelivery.net/ywtNy772PWwXecPtq2-tAQ/614b7426-722f-4ad6-51a7-1c86a656e200/default)
-
-You
-
-Why can’t you access the file?
-
-![](https://imagedelivery.net/ywtNy772PWwXecPtq2-tAQ/614b7426-722f-4ad6-51a7-1c86a656e200/default)
-
-You
-
-Hello
-
-![](https://imagedelivery.net/ywtNy772PWwXecPtq2-tAQ/614b7426-722f-4ad6-51a7-1c86a656e200/default)
-
-You
 
 Please continue to follow-up with searching uploaded document Journal314\_1-6

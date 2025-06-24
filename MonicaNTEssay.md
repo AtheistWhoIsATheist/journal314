@@ -1,7 +1,7 @@
 # **Nihiltheism: A Scholarly Exploration of Paradox and Transcendence**
 **2025-03-11-Tuesday**
 #monica 
-[[Prompts/GPTs for NT/GPT Structure/Simplified Summary|Simplified Summary]]
+[[Prompts/GPT Structure/Simplified Summary|Simplified Summary]]
 
 ## **Introduction: The Paradoxical Nexus of Nihilism and Theism**
 

@@ -28,9 +28,7 @@ Saturday, March 16, 2024
 ### Use case:
 
 Longer or more complex documents where you want ChatGPT to do several passes in a document exploring an area of interest from the point of view of a specific persona. 
-
   
-
 ### Prompt: \*\*Example\*\*: Revise into Nihiltheistic Context, then begin:
 
 Take a look at this file with the latest Supreme Court decision. Look for the role that Justice Alito played in the decision. First, write down your research plan as a lawyer with expertise in SCOTUS cases would. Execute it step-by-step, writing down key findings in a concise way. Summarize in the end his positions and opinions on the issues discussed.
@@ -52,8 +50,6 @@ Get ChatGPT to explore and summarize information across a book's chapters. While
 Please read the summary of this book's first pages. 
 
 Prepare a plan for search and comprehensive summary as follows: 
-
-  
 
 \* Write down a series of questions, one for each chapter. 
 
@@ -95,8 +91,6 @@ Rewrite the plan: 
 
 * * *
 
-  
-
 # 3\. Chain-of-Density Summart
 
 You will create a philosophical treatise in multiple steps. 
@@ -123,13 +117,9 @@ For each subsequent search step, perform a search to enrich and refine the treat
 
 \*\*Step 2\*\*: Further refine the overview by searching for and adding 5-10 more salient entities or details from the document, elements a \*\*Philosophical Sage\*\* would note down, again increasing the overall length and density. Additionally, with each new iteration, the text becomes ever greater in sophistication, elevating your writing from a Professor of Philosophy, to the leading intellectual authority on the subject, diving deeper than ever before, extract nuanced aspects of the text that only the expertise of an elite philosopher and theologian are capable of, a true \*\*Philosophical Sage\*\*, further enhancing the informativeness of the treatise.
 
-  
-
 Repeat instructions for \*\*Step 3\*\*, up to {N...number of times} until your searches do not return additional salient entities besides what you have already searched and incorporated into the academically rigorous treatise. \*Note: Without confirmation from user, continuously \*\*follow up and search\*\* the entirety of the text, continously, until you can no longer find any key entities to extract to put into your writing, and your treatise is saturated. Do not waste time by asking for permission to continue.
 
 * * *
-
-  
 
 ## **4.  AiDrive:**
 
@@ -156,11 +146,7 @@ To embark on this intellectual journey of analysis, synthesis, summarization, th
 
     - {Presentation of Markmap}
 
-#   
-
 * * *
-
-  
 
 # 5\. AiDrive
 
@@ -175,7 +161,6 @@ To begin this task, I'll first outline a step-by-step research plan based on you
 
 * * *
 
-  
 
 # 6\. Lex V of AiDrive
 
@@ -183,8 +168,6 @@ To begin this task, I'll first outline a step-by-step research plan based on you
 - 6.2 Complete Document
 
 * * *
-
-  
 
 \### Lex 
 
@@ -202,7 +185,7 @@ Certainly, let's restructure the prompts to be completely separate, each with di
 2\. \*\*Initial Summary\*\*: 
 
 - Follow up and search.
--  Pull 5-10 key Entities.
+-  Pull 5-10 key entities and important aspects.
 -  Summarize essential themes and concepts.
 - Output: Essay form, rigorous academic standards of structure and phrasing.
 
@@ -210,7 +193,7 @@ Certainly, let's restructure the prompts to be completely separate, each with di
 \*\***Unprompted** **First Iteration\*\***:
 
 - FOLLOW UP ON SEARCHING THE DOCUMENT FOR KEY ENTITIES.
-- Enhance summarieseaxh iteration  by incorporating additional insights while maintaining your role. Your summary should retain scholarly tone and sophisticated interpretation.
+- Enhance density of summaries each iteration by incorporating additional insights while maintaining your role. Your summary should retain scholarly tone and sophisticated interpretation.
 
 4\. \*\*Unprompted Second Iteration\*\*: 
 
@@ -222,12 +205,12 @@ Certainly, let's restructure the prompts to be completely separate, each with di
 
 4\. \*\*Completion\*\*: 
 
-- When no more high-level insights can be added without repetition, finalize your bullet point summary. 
+- When no more high-level insights can be added without repetition, optimize your bullet point summary into an in-depth outline for final essay. 
 - Ensure it reflects highest level of philosophical understanding and articulation.
 
 5\. \*\*Formatting\*\*: 
 
-- Provide the final summary formatted in full Markdown syntax, enclosed in a code box for easy copying and pasting.
+- Provide the final culmination of summaries in an in-depth, full-length philosophical treatise. Format using Markdown syntax and enclose in a single code block for easy copying and pasting.
 
   
 \---  

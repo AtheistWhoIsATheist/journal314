@@ -1,4 +1,4 @@
-# Maxmini Naturalism Overview
+# MiniMax Naturalism Overview
 2025-02-04-Tuesday
 #Book #BookGPT  #314rensum 
 

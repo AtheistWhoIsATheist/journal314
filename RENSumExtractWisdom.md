@@ -12,7 +12,7 @@ folder:
 - Note to myself: Use the “Prompt” for other inquiries, as it provides a ridiculously strong response with a lot of material to work and build off of.
 - #rensum #fabric
 - [[Fabric Extract Wisdom Extended Versions]]
-- use the rearranged definition of Nihilheism with [[Argument Exploration Prompt]] &  [[Perplexity Nihiltheism Argument Builder]]
+- use the rearranged definition of Nihilheism with [[Prompts/Prompt Generators-Enhancers/Quartzite Ai/Argument Exploration Prompt]] &  [[Perplexity Nihiltheism Argument Builder]]
 
 * * *
 
