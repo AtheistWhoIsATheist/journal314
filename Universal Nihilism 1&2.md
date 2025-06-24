@@ -1,15 +1,14 @@
 ---
-date: 2024-12-05 02:47:07
-created: 2024-09-14 07:42:39
-categories:
-- Journal314 / 314Universal
+date created: 2024-12-05 02:47:07
+folder:
+  - Journal314 / 314Universal
 ---
 
 # Universal Nihilism 1&2
 
 9/14/24
 
-- Prompts for all responses are within: [Thinkers & Themes 1](Thinkers%20%26%20Themes%201.md "upnote://x-callback-url/openNote?noteId=32282bd5-120f-4464-a918-7fc78029bfa9")
+- Prompts for all responses are within: [[Thinkers & Themes 1]]
 - [Thinkers & Themes 2](Thinkers%20%26%20Themes%C2%A02.md "upnote://x-callback-url/openNote?noteId=eed5db69-96e1-4f7a-928f-15da161d1305")
 - [Thinkers & Themes 3](Thinkers%20%26%20Themes%203.md "upnote://x-callback-url/openNote?noteId=33b0102b-b07e-4d99-bc46-c741cb2d1ac8")
 
@@ -21,7 +20,7 @@ categories:
 4. Response from [Thinkers & Themes 2](Thinkers%20%26%20Themes%C2%A02.md "upnote://x-callback-url/openNote?noteId=eed5db69-96e1-4f7a-928f-15da161d1305")
 5. Response from [Thinkers & Themes 3](Thinkers%20%26%20Themes%203.md "upnote://x-callback-url/openNote?noteId=33b0102b-b07e-4d99-bc46-c741cb2d1ac8")
 
-  
+<br>
 
 * * *
 

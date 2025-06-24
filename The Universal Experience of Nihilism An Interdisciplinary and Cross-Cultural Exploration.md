@@ -1,9 +1,8 @@
 ---
-date: 2024-12-31 12:17:00
-created: 2024-11-22 04:06:46
-categories:
-- Journal314 / 314Universal
-- NT Research / Long Essays
+date created: 2024-12-31 12:17:00
+folder:
+  - Journal314 / 314Universal
+  - NT Research / Long Essays
 ---
 
 # The Universal Experience of Nihilism: An Interdisciplinary and Cross-Cultural Exploration
