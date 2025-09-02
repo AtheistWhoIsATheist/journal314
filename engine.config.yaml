@@ -1,0 +1,16 @@
+meta:
+  name: NSPE
+  version: "ΩX.Φ"
+thresholds:
+  density_noise_min: 0.90
+  novelty_min_pct: 0.05
+  paradox_budget: 3
+  saturation_target_pct: 0.95
+  redundancy_max_pct: 0.15
+logging:
+  level: INFO
+  residue_auto_open: true
+  dashboards: true
+safety:
+  suicide_topic: quarantine
+  dissociation_flagging: true

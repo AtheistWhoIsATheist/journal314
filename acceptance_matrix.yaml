@@ -1,0 +1,28 @@
+_meta:
+  created: 2025-08-27T23:42:50.312979Z
+  purpose: Acceptance criteria for paradox test cases
+defaults:
+  density_noise_min: 0.90
+  avoid_reification: true
+  allow_paradox: true
+cases:
+  PX-0001:
+    require_K: ["K-11","K-12"]
+  PX-0002:
+    require_RN: ["RN-1","RN-3"]
+  PX-0003:
+    require_A: ["A-1","A-3","A-5"]
+  PX-0004:
+    forbid_consolation: true
+  PX-0005:
+    require_O: ["O-1","O-2"]
+  PX-0006:
+    avoid_entity_predicates: true
+  PX-0007:
+    require_K: ["K-10"]
+  PX-0008:
+    ethics_first: true
+  PX-0009:
+    require_A: ["A-4"]
+  PX-0010:
+    lexicon_purge_terms: ["emptiness","presence"]

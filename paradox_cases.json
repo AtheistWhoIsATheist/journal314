@@ -1,0 +1,185 @@
+{
+  "_meta": {
+    "created": "2025-08-27T23:42:50.312979Z",
+    "purpose": "Paradox cases tailored to Journal314 figures"
+  },
+  "cases": [
+    {
+      "id": "PX-0001",
+      "title": "Nietzsche \u00d7 Pseudo-Dionysius \u2014 Affirmation through Negation",
+      "statement": "Affirm life / deny predicates of the divine",
+      "expected_protocols": [
+        "P-1",
+        "P-2",
+        "P-3"
+      ],
+      "checks": {
+        "avoid_reification": true,
+        "allow_paradox": true,
+        "link_K": [
+          "K-11",
+          "K-12"
+        ]
+      }
+    },
+    {
+      "id": "PX-0002",
+      "title": "Cioran \u00d7 Eckhart \u2014 Melancholic Mysticism",
+      "statement": "Despair that thins into prayer without object",
+      "expected_protocols": [
+        "P-2",
+        "P-3",
+        "P-5"
+      ],
+      "checks": {
+        "RN": [
+          "RN-1",
+          "RN-3"
+        ],
+        "O_violations_disallowed": true
+      }
+    },
+    {
+      "id": "PX-0003",
+      "title": "Mainl\u00e4nder \u00d7 N\u0101g\u0101rjuna \u2014 Self-Negating Cosmos vs Emptiness-of-Emptiness",
+      "statement": "Universe wills non-existence / emptiness is empty",
+      "expected_protocols": [
+        "P-1",
+        "P-2",
+        "P-8"
+      ],
+      "checks": {
+        "A": [
+          "A-1",
+          "A-3",
+          "A-5"
+        ],
+        "K": [
+          "K-9",
+          "K-11"
+        ]
+      }
+    },
+    {
+      "id": "PX-0004",
+      "title": "Brassier \u00d7 Ibn \u02bfArab\u012b \u2014 Extinction Realism vs Mystical Plenitude",
+      "statement": "Total disenchantment / creative infinity",
+      "expected_protocols": [
+        "P-2",
+        "P-4",
+        "P-5"
+      ],
+      "checks": {
+        "no_consolation": true,
+        "keep_isomorphy_without_syncretism": true
+      }
+    },
+    {
+      "id": "PX-0005",
+      "title": "Ligotti \u00d7 Tillich \u2014 Sacred Horror and the God above God",
+      "statement": "Horror as ultimate concern",
+      "expected_protocols": [
+        "P-2",
+        "P-3",
+        "P-4"
+      ],
+      "checks": {
+        "RN": [
+          "RN-1",
+          "RN-2"
+        ],
+        "O": [
+          "O-1",
+          "O-2"
+        ]
+      }
+    },
+    {
+      "id": "PX-0006",
+      "title": "Kierkegaard \u00d7 Vattimo \u2014 Leap and Weak Thought",
+      "statement": "Faith's leap without metaphysical weight",
+      "expected_protocols": [
+        "P-1",
+        "P-3",
+        "P-5"
+      ],
+      "checks": {
+        "K": [
+          "K-11",
+          "K-12"
+        ],
+        "avoid_entity_predicates": true
+      }
+    },
+    {
+      "id": "PX-0007",
+      "title": "Heidegger \u00d7 Nishitani \u2014 Nothing and Nihility",
+      "statement": "Das Nichts and religious nihility contact point",
+      "expected_protocols": [
+        "P-2",
+        "P-5",
+        "P-8"
+      ],
+      "checks": {
+        "A": [
+          "A-2",
+          "A-5"
+        ],
+        "K": [
+          "K-10"
+        ]
+      }
+    },
+    {
+      "id": "PX-0008",
+      "title": "Bataille \u00d7 Levinas \u2014 Expenditure vs Ethical Infinity",
+      "statement": "Non-knowledge blaze meets face of the other",
+      "expected_protocols": [
+        "P-4",
+        "P-5",
+        "P-8"
+      ],
+      "checks": {
+        "ethics_first": true,
+        "no_idol_of_excess": true
+      }
+    },
+    {
+      "id": "PX-0009",
+      "title": "Camus \u00d7 Dionysius \u2014 Revolt and Via Negativa",
+      "statement": "Solar revolt beside darkness of unknowing",
+      "expected_protocols": [
+        "P-1",
+        "P-3",
+        "P-5"
+      ],
+      "checks": {
+        "O": [
+          "O-3"
+        ],
+        "A": [
+          "A-4"
+        ]
+      }
+    },
+    {
+      "id": "PX-0010",
+      "title": "Eliot \u00d7 N\u0101g\u0101rjuna \u2014 Dry Season and Emptiness",
+      "statement": "Negative space poetry encounters \u015b\u016bnyat\u0101",
+      "expected_protocols": [
+        "P-3",
+        "P-6",
+        "P-7"
+      ],
+      "checks": {
+        "RN": [
+          "RN-5"
+        ],
+        "lexicon_purge_terms": [
+          "emptiness",
+          "presence"
+        ]
+      }
+    }
+  ]
+}
